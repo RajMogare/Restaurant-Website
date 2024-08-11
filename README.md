@@ -36,10 +36,12 @@ To view this project locally, follow these steps:
    git clone https://github.com/RajMogare/Restaurant-Website.git
 
 2. **Navigate to the project directory:**
-   ``` cd Restaurant-Website
+   ```bash
+    cd Restaurant-Website
 
 3. **Open the index.html file in your browser:**
-   ``` open index.html
+   ```bash
+    open index.html
 
 
 
